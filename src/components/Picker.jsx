@@ -82,7 +82,7 @@ function Picker({ meals, onPick }) {
       </section>
 
       <button className="pick-btn" onClick={handleSubmit}>
-        🎲 Decide for us!
+        🎲 Bon Appetit!
       </button>
     </div>
   )
